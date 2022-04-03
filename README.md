@@ -1,2 +1,1 @@
-build using web hooks..
-Build 2nd time
+Build trigger using Poll SCM
