@@ -1,1 +1,1 @@
-# JenkinsGitMaven
+Initialize web hooks
